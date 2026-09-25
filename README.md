@@ -1,2 +1,2 @@
 # README TODO
-README为待办项，暂时不考虑
+README为待办项
