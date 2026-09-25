@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Codewright (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Codewright (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
